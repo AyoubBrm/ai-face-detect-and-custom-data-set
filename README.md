@@ -28,11 +28,11 @@
 
 # 🏋️‍♂️ Training the Model
 
-## To train the model on your dataset, run:
+###### To train the model on your dataset, run:
 
 1- python train.py
 
-### Ensure your dataset is prepared and formatted for YOLO.
+####### Ensure your dataset is prepared and formatted for YOLO.
 
 1- Modify train.py to adjust training parameters such as epochs, batch size, and dataset path.
 
@@ -42,11 +42,11 @@
 
 2- python run.py
 
-## This script loads the trained weights from:
+###### This script loads the trained weights from:
 
 1- detect/train4/weights/best.pt
 
-## Ensure the model file exists in this directory before executing the script.
+###### Ensure the model file exists in this directory before executing the script.
 
 # 🔧 Customization
 
@@ -56,5 +56,5 @@
 
 3- Update run.py to configure inference settings, such as confidence thresholds and input sources.
 
-# Result #
+########  # Result ###########
 * ![Face Detection](runs/detect/predict/WIN_20240902_07_30_49_Pro.jpg)

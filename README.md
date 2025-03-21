@@ -24,7 +24,7 @@
 
 1- git clone https://github.com/AyoubBrm/face-detect-.git
 
-2- cd face-detect-ai
+2- cd face-detect
 
 # 🏋️‍♂️ Training the Model
 

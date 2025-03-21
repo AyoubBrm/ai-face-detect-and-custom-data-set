@@ -56,3 +56,5 @@
 
 3- Update run.py to configure inference settings, such as confidence thresholds and input sources.
 
+# Result #
+* ![Face Detection](runs/detect/predict/WIN_20240902_07_30_49_Pro.jpg)

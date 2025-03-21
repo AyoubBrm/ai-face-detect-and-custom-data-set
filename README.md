@@ -1,4 +1,4 @@
-# Face Detection AI using YOLOv11
+# Face Detection AI and Custom Dataset using YOLOv11
 
 # 📌 Overview
 
@@ -32,9 +32,9 @@
 
 1- python train.py
 
-# Ensure your dataset is prepared and formatted for YOLO.
+2- Ensure your dataset is prepared and formatted for YOLO.
 
-1- Modify train.py to adjust training parameters such as epochs, batch size, and dataset path.
+3- Modify train.py to adjust training parameters such as epochs, batch size, and dataset path and replace a FACE.DET.v3i.yolov11 folder with your data set .
 
 # 🏃 Running Face Detection
 

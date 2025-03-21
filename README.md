@@ -1,5 +1,5 @@
 # face-detect-
-Face Detection AI using YOLOv11
+  # Face Detection AI using YOLOv11
 
 This project implements face detection using YOLOv11. It includes two scripts:
 

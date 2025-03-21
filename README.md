@@ -43,11 +43,11 @@
 
 2- python run.py
 
-# This script loads the trained weights from:
+* This script loads the trained weights from:
 
-1- detect/train4/weights/best.pt
+* detect/train4/weights/best.pt
 
-# Ensure the model file exists in this directory before executing the script .
+* Ensure the model file exists in this directory before executing the script .
 
 # 🔧 Customization
 

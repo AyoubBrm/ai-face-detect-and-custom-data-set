@@ -10,22 +10,6 @@
 
 * This project supports any dataset for face detection and can be customized as needed.
 
-** 📂 Project Structure **
-
-face-detect/
-│── train.py        # Script to train YOLOv11 on a dataset
-
-│── run.py          # Script to run the trained model
-
-│── README.md       # Project documentation
-
-|── your data set   # you can use any data set
-
-│── detect/
-│   └── train4/
-│       └── weights/
-│           └── best.pt  # Trained YOLOv11 model weights
-
 # 🚀 Installation
 
 1️⃣ Install Dependencies

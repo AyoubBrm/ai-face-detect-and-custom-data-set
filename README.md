@@ -57,10 +57,10 @@
 
 3- Update run.py to configure inference settings, such as confidence thresholds and input sources .
 
-# Note
+# 📖 Note
 
 *  You can use your own dataset instead of a predefined one not just for face detect it's your own choose . 
 
-# Result
+# 📊 Result
 
 ![Face Detection](runs/detect/predict/WIN_20240902_07_30_49_Pro.jpg)

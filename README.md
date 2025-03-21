@@ -34,7 +34,8 @@
 
 2- Ensure your dataset is prepared and formatted for YOLO.
 
-3- Modify train.py to adjust training parameters such as epochs, batch size, and dataset path and replace a FACE.DET.v3i.yolov11 folder with your data set .
+3- Modify train.py to adjust training parameters such as epochs, batch size, and dataset path,
+   and replace a FACE.DET.v3i.yolov11 folder with your data set .
 
 # 🏃 Running Face Detection
 

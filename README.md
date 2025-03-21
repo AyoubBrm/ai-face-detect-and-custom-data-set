@@ -47,15 +47,19 @@
 
 1- detect/train4/weights/best.pt
 
-# Ensure the model file exists in this directory before executing the script.
+# Ensure the model file exists in this directory before executing the script .
 
 # 🔧 Customization
 
 1- Supports any dataset in YOLO annotation format.
 
-2- Modify train.py to adjust training settings like batch size, learning rate, and epochs.
+2- Modify train.py to adjust training settings like batch size, learning rate, and epochs .
 
-3- Update run.py to configure inference settings, such as confidence thresholds and input sources.
+3- Update run.py to configure inference settings, such as confidence thresholds and input sources .
+
+# Note
+
+*  You can use your own dataset instead of a predefined one not just for face detect it's your own choose . 
 
 # Result
 

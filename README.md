@@ -1,6 +1,6 @@
 # Face Detection AI using YOLOv11
 
-* 📌 Overview
+# 📌 Overview
 
 ## This project provides a face detection AI using YOLOv11. It consists of two main scripts:
 
@@ -14,9 +14,13 @@
 
 face-detect/
 │── train.py        # Script to train YOLOv11 on a dataset
+
 │── run.py          # Script to run the trained model
+
 │── README.md       # Project documentation
+
 |── your data set   # you can use any data set
+
 │── detect/
 │   └── train4/
 │       └── weights/

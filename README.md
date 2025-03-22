@@ -22,7 +22,7 @@
 
 2️⃣ Clone the Repository
 
-1- git clone https://github.com/AyoubBrm/face-detect-.git
+1- git clone https://github.com/AyoubBrm/ai-face-detect-and-custom-data-set.git
 
 2- cd face-detect
 
@@ -43,7 +43,7 @@
 
 2- python run.py
 
-* This script loads the trained weights from:
+# -This script loads the trained weights from:
 
 * detect/train4/weights/best.pt
 
@@ -59,7 +59,7 @@
 
 # 📖 Note
 
-*  You can use your own dataset instead of a predefined one not just for face detect it's your own choose . 
+*  You can use your own dataset instead of a predefined one, this is not just for face detect it work's with all dataset . 
 
 # 📊 Result
 

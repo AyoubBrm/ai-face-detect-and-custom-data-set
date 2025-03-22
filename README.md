@@ -43,7 +43,7 @@
 
 2- python run.py
 
-# -This script loads the trained weights from:
+# This script loads the trained weights from:
 
 * detect/train4/weights/best.pt
 
